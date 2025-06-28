@@ -8,7 +8,11 @@
 Questions:
 1
 2
-3
+4
+SUPERUSER DETAILS:
+username:ella
+email:isiborella98@gmail.com
+password:emmanuella
 
 
 
